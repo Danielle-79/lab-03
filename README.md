@@ -8,5 +8,5 @@ NA
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| Danrui Tsai   | danrui |
+| NA   | NA |
 
